@@ -24,4 +24,4 @@ https://www.youtube.com/watch?v=T7ra8zPCA9E
  
  그리고 왈츠의 순환성과 점점 고조되고 쌓여가는 선율은 수미의 붕괴되어가는 정신을 나타낸다. 처음엔 단조로운 하나의 바이올린 선율로 시작된 곡은, 후반으로 갈수록 여러가지 선율이 쌓이면서 더욱 날카로워진다. 이를 통해서 영화는 증세가 악화되는 수미의 정신 상태와 심화되어가는 죄책감을 청각적으로 보여준다. 
 
- <img src="./장화홍련 이미지.png" alt="description" style="width:25%;" />
+ <img src="https://github.com/user-attachments/assets/9782c14a-a2f9-4c8e-ab9d-d986fe6ac805" alt="description" style="width:25%;" />
